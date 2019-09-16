@@ -1,7 +1,7 @@
 # Convision
 Augmented reality based Android application to convert currencies real-time on camera.
 
-[![demo](Convision Logo.png)](https://www.youtube.com/watch?v=vMdTO_IW4fY)
+[![demo](https://img.youtube.com/vi/vMdTO_IW4fY/maxresdefault.jpg)](https://www.youtube.com/watch?v=vMdTO_IW4fY)
 
 ## Inspiration
 Inspired by a recent struggle of how one of our team members who just flew over from Indonesia for this hackathon has to adapt to the Canadian currency, we decided that real-time conversion would benefit millions of tourists worldwide. This paves the way for us to bridge a gap between modern technologies and increasingly prevalent problems.
